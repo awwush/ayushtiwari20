@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayushtiwari20
+- 👋 Hi, I’m Ayush Tiwari
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on open source projects
